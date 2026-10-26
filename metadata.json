@@ -1,0 +1,12 @@
+{
+  "name": "Silent SOS - Women's Safety Hand Gesture Recognition",
+  "description": "Real-time camera hand gesture recognition platform for women's safety, featuring instant Signal for Help emergency detection, automated evidence capture, and local emergency dispatch simulation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
