@@ -356,7 +356,7 @@ export default function App() {
                 <div className="hidden lg:block lg:col-span-5">
                   <div className="relative aspect-[16/9] w-full rounded-xl overflow-hidden border border-slate-800 bg-slate-950">
                     <img
-                      src="/src/assets/images/safety_shield_concept_1791392068729.jpg"
+                      src="/images/safety_shield_concept_1791392068729.jpg"
                       alt="Silent SOS protective visual"
                       referrerPolicy="no-referrer"
                       className="w-full h-full object-cover"

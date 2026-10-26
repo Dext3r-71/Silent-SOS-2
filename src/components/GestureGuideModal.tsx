@@ -48,7 +48,7 @@ export const GestureGuideModal: React.FC<GestureGuideModalProps> = ({ isOpen, on
           {/* Guide Image with resilient fallback container */}
           <div className="relative aspect-[4/3] sm:aspect-[16/9] w-full overflow-hidden rounded-lg bg-slate-900 border border-slate-800/80 mb-4">
             <img
-              src="/src/assets/images/signal_for_help_guide_1791392081209.jpg"
+              src="/images/signal_for_help_guide_1791392081209.jpg"
               alt="Visual demonstration of the Signal for Help in three steps"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover object-center"
